@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am Jihan :no_mouth:
-The nerd living her life 
+I am Jihan :no_mouth:  
+A nerd living her life 
 
 - 🔭 I’m currently working on my life :smile:
 - 🌱 I’m currently learning JavaScript & React 
