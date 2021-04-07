@@ -10,7 +10,7 @@ and living her life :smiley:
 - :four_leaf_clover: Interest: Religion , Science , Technology , Nature , Poetry , History 
 - :maple_leaf: Hobby: Reading , Photography , Exploring 
 
-** Education 
+** Education **
 - :school_satchel: School: Feni Govt. Girls' High School
 - :mortar_board: Diploma In Engineering : Feni Computer Institute 
 
