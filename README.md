@@ -8,7 +8,7 @@ and living her life :smiley:
 - 📫 How to reach me: https://linktr.ee/jihan2121
 - ⚡ Fun fact: I'm ODD :alien:
 - :four_leaf_clover: Interest: Religion , Science , Technology , Nature , Poetry , History 
-- :maple_leaf: Hobby: Reading , Photography , Exploring 
+- :maple_leaf: Hobby: Reading , Photography , Drawing 
 
 **Education**
 - :school_satchel: School: Feni Govt. Girls' High School
