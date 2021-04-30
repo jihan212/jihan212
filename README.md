@@ -1,9 +1,7 @@
 
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![Jihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihan212&count_private=true&show_icons=true&theme=vue-dark)
-
-<br /><br />
+<br />
 
 I am Jihan :no_mouth:  
 A nerd exploring, learning
@@ -19,3 +17,6 @@ and living her life :smiley:
 - :school_satchel: School: Feni Govt. Girls' High School
 - :mortar_board: Diploma In Engineering : Feni Computer Institute 
 
+<br />
+
+![Jihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihan212&count_private=true&show_icons=true&theme=vue-dark)
