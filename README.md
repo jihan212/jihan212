@@ -15,4 +15,5 @@ and living her life :smiley:
 - :school_satchel: School: Feni Govt. Girls' High School
 - :mortar_board: Diploma In Engineering : Feni Computer Institute 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
+![Jihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihan212&count_private=true)
