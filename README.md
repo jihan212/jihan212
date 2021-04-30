@@ -17,9 +17,10 @@ and living her life :smiley:
 - :school_satchel: School: Feni Govt. Girls' High School
 - :mortar_board: Diploma In Engineering : Feni Computer Institute 
 
-<br/>
+<br />
 
-![](https://img.shields.io/badge/<Code>-<JavaScript>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+### Technology Idea 
+(https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E),
 
 <br />
 
