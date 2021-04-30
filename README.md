@@ -3,9 +3,8 @@
 
 <br />
 
-I am Jihan :no_mouth:  
-A nerd exploring, learning
-and living her life :smiley: 
+### I am Jihan :no_mouth:  
+Exploring, learning and living life fully :smiley:  
 
 - 🌱 I’m currently learning JavaScript, React, NodeJs 
 - 📫 How to reach me: https://linktr.ee/jihan2121
