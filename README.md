@@ -22,8 +22,8 @@ Exploring, learning and living life fully :smiley:
 
 ## You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: https://i.pinimg.com/474x/7c/d8/c2/7cd8c20bb4df6ba22cf0e013e034d3bb.jpg
+[2.2]: https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png
 
 
 [1]: https://twitter.com/Jihan_Jashim
