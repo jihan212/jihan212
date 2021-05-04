@@ -22,10 +22,10 @@ Exploring, learning and living life fully :smiley:
 
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihan212&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihan212&theme=nord )
 
 
 <br />
 
-![Jihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihan212&count_private=true&show_icons=true&theme=vue-dark)
+![Jihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihan212&count_private=true&show_icons=true&theme=nord )
 
