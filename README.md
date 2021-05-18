@@ -6,11 +6,12 @@
 Exploring, learning and living life fully :smiley:  
 
 - 🌱 My current interests are JavaScript, React, NodeJs 
-- 📫 How to reach me: https://linktr.ee/jihan2121
-- ⚡ Fun fact: I'm ODD :alien:
+- 📫 [Connect With me](https://linktr.ee/jihan2121)
+- :computer: [Portfolio Site](https://portfolio-3305c.web.app/)
 - :four_leaf_clover: Interest: Religion , Science , Technology , Nature , Poetry , History 
 - :maple_leaf: Hobby: Reading , Photography , Drawing 
-- :computer: [Portfolio Site](https://portfolio-3305c.web.app/)
+-  :ghost: Fun fact: I'm ODD :alien:
+- ⚡ Interesting fact : Babies, Doggos & kittens are my favourite 
 
 **Education**
 - :school_satchel: School: Feni Govt. Girls' High School
