@@ -3,7 +3,7 @@
 
 ### I am Jihan :no_mouth:  
 
-Exploring, learning and living life fully :smiley:  
+Living , Learning , Exploring . . . :smiley:  
 
 - 🌱 My current interests are JavaScript, React, NodeJs 
 - 📫 [Connect With me](https://linktr.ee/jihan2121)
