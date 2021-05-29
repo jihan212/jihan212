@@ -5,7 +5,7 @@
 
 Living , Learning , Exploring . . . :smiley:  
 
-- 🌱 My current interests are JavaScript, React, NodeJs 
+- 🌱 My current interests are JavaScript, React, NodeJs , Redux
 - 📫 [Connect With me](https://linktr.ee/jihan2121)
 - :computer: [Portfolio Site](https://portfolio-3305c.web.app/)
 - :four_leaf_clover: Interest: Religion , Science , Technology , Nature , Poetry , History 
