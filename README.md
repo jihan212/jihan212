@@ -9,7 +9,7 @@ Living , Learning , Exploring . . . :smiley:
 - :woman_technologist: I am currently working on [eHostel](https://github.com/jihan212/ehostel)
 - 📫 [Connect With me](https://linktr.ee/jihan2121)
 - :computer: [Portfolio Site](https://portfolio-3305c.web.app/)
-- :maple_leaf: Hobby: Reading , Photography , Drawing 
+- :maple_leaf: Hobbies : Reading , Photography , Drawing 
 - :ghost: Interesting fact: I'm ODD :alien:
 - :no_mouth: Fun facts : Babies, Doggos & kittens are my favourite 
 
@@ -18,7 +18,6 @@ Living , Learning , Exploring . . . :smiley:
 - :mortar_board: Diploma In Engineering : Feni Computer Institute 
 
 <br />
-
 ### Language and Tools 
 
 <p align="center">
