@@ -1,9 +1,7 @@
 
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p align="center">
 ### I am Jihan :no_mouth:  
-</p>
 
 Living , Learning , Exploring . . . :smiley:  
   
