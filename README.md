@@ -1,11 +1,11 @@
 
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### I am Jihan :no_mouth:  
-
 <p align="center">
-Living , Learning , Exploring . . . :smiley:  
+### I am Jihan :no_mouth:  
 </p>
+
+Living , Learning , Exploring . . . :smiley:  
   
 - 🌱 My current interests are JavaScript, React, NodeJs , Redux
 - :woman_technologist: I am currently working on [eHostel](https://github.com/jihan212/ehostel)
