@@ -3,8 +3,10 @@
 
 ### I am Jihan :no_mouth:  
 
+<p align="center">
 Living , Learning , Exploring . . . :smiley:  
-
+</p>
+  
 - 🌱 My current interests are JavaScript, React, NodeJs , Redux
 - :woman_technologist: I am currently working on [eHostel](https://github.com/jihan212/ehostel)
 - 📫 [Connect With me](https://linktr.ee/jihan2121)
@@ -40,7 +42,7 @@ Living , Learning , Exploring . . . :smiley:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="windows" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" alt="atom" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/canva/canva.png" alt="canva" height="40" style="vertical-align:top; margin:4px">
+<!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/canva/canva.png" alt="canva" height="40" style="vertical-align:top; margin:4px"> -->
 </p>
 
 <br />
