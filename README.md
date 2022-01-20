@@ -34,4 +34,8 @@ Living , Learning , Exploring . . . :smiley:
 
 ![Jihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihan212&count_private=true&show_icons=true&theme=nord )
 
+<br />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jihan212&theme=dark)](https://git.io/streak-stats)
+
 ![](https://komarev.com/ghpvc/?username=jihan212&color=orange&style=plastic)
