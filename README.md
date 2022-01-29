@@ -56,6 +56,11 @@ Living , Learning , Exploring . . . :smiley:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jihan212&theme=dark)](https://git.io/streak-stats)
 
-<a href="https://app.daily.dev/jihan212"><img src="https://api.daily.dev/devcards/c9f38d6e438f48a38fce8696f8151f79.png?r=tgm" width="400" alt="Jihan Binte Jashim's Dev Card"/></a>
+<a href="https://app.daily.dev/jihan212"><img src="https://api.daily.dev/devcards/c9f38d6e438f48a38fce8696f8151f79.png?r=tgm" width="200" alt="Jihan Binte Jashim's Dev Card"/></a>
+
+- name: devcard
+  uses: dailydotdev/action-devcard@2.0.5
+  with:
+    devcard_id: ${{c9f38d6e438f48a38fce8696f8151f79}}
 
 ![](https://komarev.com/ghpvc/?username=jihan212&color=orange&style=plastic)
