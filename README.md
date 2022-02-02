@@ -26,7 +26,7 @@
 [![Quora](https://img.shields.io/badge/quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Jihan-Binte-Jashim/)
 [![Linktree](https://img.shields.io/badge/linktree-38BE7B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/jihan2121/)
 
-## Language and Tools 
+## 🛠 Skills
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
