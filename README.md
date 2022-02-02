@@ -6,10 +6,9 @@
 ### I am Jihan :no_mouth:  
   
 - 🧠 I'm currently learning JavaScript, React, NodeJs , Redux
-- :woman_technologist: I am currently working on [eHostel](https://github.com/jihan212/ehostel)
-- :maple_leaf: Hobbies : Reading , Photography , Drawing 
-- :ghost: Interesting fact: I'm ODD :alien:
-- :no_mouth: Fun facts : Babies, Doggos & kittens are my favourite 
+- :woman_technologist: I am currently working on [![eHostel](https://img.shields.io/badge/project-000?style=for-the-badge)](https://github.com/jihan212/ehostel)
+- :maple_leaf: Hobbies : Reading , Photography , 
+- :ghost: Interesting fact : I'm ODD :alien:
 
 **Education**
 - :school_satchel: School: Feni Govt. Girls' High School
