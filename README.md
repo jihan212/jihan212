@@ -54,8 +54,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihan212&theme=nord )
 
-
-<br />
+-----
 
 ![Jihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihan212&count_private=true&show_icons=true&theme=nord )
 
