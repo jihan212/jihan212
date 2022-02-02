@@ -1,14 +1,12 @@
 
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### I am Jihan :no_mouth:  
+## 🚀 About Me
 
-Living , Learning , Exploring . . . :smiley:  
+### I am Jihan :no_mouth:  
   
-- 🌱 My current interests are JavaScript, React, NodeJs , Redux
+- 🧠 I'm currently learning JavaScript, React, NodeJs , Redux
 - :woman_technologist: I am currently working on [eHostel](https://github.com/jihan212/ehostel)
-- 📫 [Connect With me](https://linktr.ee/jihan2121)
-- :computer: [Portfolio Site](https://portfolio-3305c.web.app/)
 - :maple_leaf: Hobbies : Reading , Photography , Drawing 
 - :ghost: Interesting fact: I'm ODD :alien:
 - :no_mouth: Fun facts : Babies, Doggos & kittens are my favourite 
@@ -18,6 +16,16 @@ Living , Learning , Exploring . . . :smiley:
 - :mortar_board: Diploma In Engineering : Feni Computer Institute 
 
 <br />
+## 📫 How to reach me...
+### 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-3305c.web.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jihan-binte-jashim)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Jihan_Jashim)
+[![Reddit](https://img.shields.io/badge/reddit-F84600?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/ascetica212)
+[![Medium](https://img.shields.io/badge/medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://zihanjashim2121.medium.com/)
+[![Tumble](https://img.shields.io/badge/tumblr-314358?style=for-the-badge&logo=tumblr&logoColor=white)](https://ascetica212.tumblr.com/)
+[![Quora](https://img.shields.io/badge/quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Jihan-Binte-Jashim/)
+
 
 ### Language and Tools 
 
