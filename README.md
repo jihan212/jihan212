@@ -15,8 +15,8 @@
 - :school_satchel: School: Feni Govt. Girls' High School
 - :mortar_board: Diploma In Engineering : Feni Computer Institute 
 
-<br />
 ## 📫 How to reach me...
+
 ### 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-3305c.web.app/)
