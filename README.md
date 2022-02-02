@@ -15,7 +15,7 @@
 - :school_satchel: School: Feni Govt. Girls' High School
 - :mortar_board: Diploma In Engineering : Feni Computer Institute 
 
-## 📫 How to reach me...
+## 📫 How to reach me
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-3305c.web.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jihan-binte-jashim/)
@@ -24,9 +24,9 @@
 [![Medium](https://img.shields.io/badge/medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://zihanjashim2121.medium.com/)
 [![Tumble](https://img.shields.io/badge/tumblr-314358?style=for-the-badge&logo=tumblr&logoColor=white)](https://ascetica212.tumblr.com/)
 [![Quora](https://img.shields.io/badge/quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Jihan-Binte-Jashim/)
+[![Linktree](https://img.shields.io/badge/linktree-38BE7B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/jihan2121/)
 
-
-### Language and Tools 
+## Language and Tools 
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
