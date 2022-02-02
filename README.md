@@ -49,22 +49,22 @@
 <!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/canva/canva.png" alt="canva" height="40" style="vertical-align:top; margin:4px"> -->
 </p>
 
------
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihan212&theme=nord )
 
------
+---
 
 ![Jihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihan212&count_private=true&show_icons=true&theme=nord )
 
------
+---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jihan212&theme=dark)](https://git.io/streak-stats)
 
------
+---
 
 <a href="https://app.daily.dev/jihan212"><img src="https://github.com/jihan212/jihan212/blob/main/devcard.svg" width="150" alt="Jihan's Dev Card"/></a>
 
------
+---
 
 ![](https://komarev.com/ghpvc/?username=jihan212&color=orange&style=plastic)
