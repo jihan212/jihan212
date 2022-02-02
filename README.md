@@ -18,11 +18,10 @@
 ## 📫 How to reach me...
 
 ### 🔗 Links
-
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-3305c.web.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jihan-binte-jashim)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Jihan_Jashim)
-[![Reddit](https://img.shields.io/badge/reddit-F84600?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/ascetica212)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jihan-binte-jashim/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Jihan_Jashim/)
+[![Reddit](https://img.shields.io/badge/reddit-F84600?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/ascetica212/)
 [![Medium](https://img.shields.io/badge/medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://zihanjashim2121.medium.com/)
 [![Tumble](https://img.shields.io/badge/tumblr-314358?style=for-the-badge&logo=tumblr&logoColor=white)](https://ascetica212.tumblr.com/)
 [![Quora](https://img.shields.io/badge/quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Jihan-Binte-Jashim/)
