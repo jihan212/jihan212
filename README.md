@@ -7,7 +7,7 @@
   
 - 🧠 I'm currently learning JavaScript, React, NodeJs , Redux
 - :woman_technologist: I am currently working on [![eHostel](https://img.shields.io/badge/eHostel-000?style=for-the-badge)](https://github.com/jihan212/ehostel)
-- :maple_leaf: Hobbies : Reading , Photography , 
+- :maple_leaf: Hobbies : Reading , Photography  
 - :ghost: Interesting fact : I'm ODD :alien:
 
 **Education**
