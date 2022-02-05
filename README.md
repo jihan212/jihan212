@@ -1,8 +1,6 @@
 
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## 🚀 About Me
-
 ### I am Jihan :no_mouth:  
 
 <table>
@@ -14,7 +12,7 @@
     ✨ In my free time I like to spend my time in reading books, photography or just browsing internet.
     :ghost: Interesting fact : I'm ODD :alien:
   <td >
-   <a href="https://app.daily.dev/jihan212"><img src="https://github.com/jihan212/jihan212/blob/main/devcard.svg" width="150" alt="Jihan's Dev Card"/></a>
+   <a href="https://app.daily.dev/jihan212"><img src="https://github.com/jihan212/jihan212/blob/main/devcard.svg" width="300" alt="Jihan's Dev Card"/></a>
   </td>
 
 </tr>
