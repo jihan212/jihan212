@@ -55,9 +55,9 @@
 ## Stats📈
 
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihan212&theme=nord" alt="jihan212" /> 
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=jihan212&count_private=true&show_icons=true&theme=nord" alt="jihan212" />
-<img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=jihan212&theme=dark" alt="jihan212" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihan212&theme=nord" alt="jihan212" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=jihan212&count_private=true&show_icons=true&theme=nord" alt="jihan212" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jihan212&theme=dark" alt="jihan212" />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=jihan212&color=orange&style=plastic)
