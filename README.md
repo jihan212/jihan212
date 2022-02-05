@@ -1,16 +1,15 @@
 
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### I am Jihan :no_mouth:  
-
+## 🎯 About Me
 <table>
 <tr>
   <td valign="center">
-    🎓 I am currently pursuing my Diploma In Engineering in Computer Science & Technology.
-    🌱 I am currently learning JavaScript, React, NodeJs , Redux and also interested in **Web Development**.
-    :woman_technologist: I am currently working on [![eHostel](https://img.shields.io/badge/eHostel-000?style=for-the-badge)](https://github.com/jihan212/ehostel)
-    ✨ In my free time I like to spend my time in reading books, photography or just browsing internet.
-    :ghost: Interesting fact : I'm ODD :alien:
+    - 🎓 I am currently pursuing my Diploma In Engineering in Computer Science & Technology.
+    - 🌱 I am currently learning JavaScript, React, NodeJs , Redux and also interested in **Web Development**.
+    - :woman_technologist: I am currently working on 
+    - ✨ In my free time I like to spend my time in reading books, photography or just browsing internet.
+    - :ghost: Interesting fact : I'm ODD :alien:
   <td >
    <a href="https://app.daily.dev/jihan212"><img src="https://github.com/jihan212/jihan212/blob/main/devcard.svg" width="300" alt="Jihan's Dev Card"/></a>
   </td>
