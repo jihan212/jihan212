@@ -4,7 +4,7 @@
 ## 🎯 About Me
 <table>
 <tr>
-  <td align="center">
+  <td align="left">
     🎓 I am currently pursuing my Diploma In Engineering in Computer Science & Technology. <br/>
     🌱 I am currently learning JavaScript, React, NodeJs , Redux and also interested in **Web Development**. <br/>
     :woman_technologist: I am currently working on [![eHostel](https://img.shields.io/badge/eHostel-000?style=for-the-badge)](https://github.com/jihan212/ehostel) <br/>
