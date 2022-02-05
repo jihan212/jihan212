@@ -6,8 +6,7 @@
 <tr>
   <td align="left">
     🎓 I am currently pursuing my Diploma In Engineering in Computer Science & Technology. <br/>
-    🌱 I am currently learning JavaScript, React, NodeJs , Redux and also interested in **Web Development**. <br/>
-    :woman_technologist: I am currently working on [![eHostel](https://img.shields.io/badge/eHostel-000?style=for-the-badge)](https://github.com/jihan212/ehostel). <br/>
+    :woman_technologist: I am currently learning JavaScript, React, NodeJs , Redux and also interested in **Web Development**. <br/>
     ✨ In my free time I like to spend my time in reading books, photography or just browsing internet. <br/>
     :ghost: Interesting fact : I'm ODD :alien: <br/>
   </td >
