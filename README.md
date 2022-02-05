@@ -6,7 +6,7 @@
 <tr>
   <td align="left">
     🎓 I am currently pursuing my Diploma In Engineering in Computer Science & Technology. <br/>
-    :woman_technologist: I am currently learning JavaScript, React, NodeJs , Redux and also interested in **Web Development**. <br/>
+    :woman_technologist: I am currently learning JavaScript, React, NodeJs , Redux. <br/>
     ✨ In my free time I like to spend my time in reading books, photography or just browsing internet. <br/>
     :ghost: Interesting fact : I'm ODD :alien: <br/>
   </td >
@@ -52,7 +52,15 @@
 <!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/canva/canva.png" alt="canva" height="40" style="vertical-align:top; margin:4px"> -->
 </p>
 
----
+---------------------------------------------------------
+## Stats📈
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihan212&theme=nord" alt="jihan212" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=jihan212&count_private=true&show_icons=true&theme=nord" alt="jihan212" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jihan212&theme=dark" alt="jihan212" />
+</p>
+
+---------------------------------------------------------
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihan212&theme=nord )
 
