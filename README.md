@@ -4,15 +4,21 @@
 ## 🚀 About Me
 
 ### I am Jihan :no_mouth:  
-  
-- 🧠 I'm currently learning JavaScript, React, NodeJs , Redux
-- :woman_technologist: I am currently working on [![eHostel](https://img.shields.io/badge/eHostel-000?style=for-the-badge)](https://github.com/jihan212/ehostel)
-- :maple_leaf: Hobbies : Reading , Photography  
-- :ghost: Interesting fact : I'm ODD :alien:
 
-**Education**
-- :school_satchel: School: Feni Govt. Girls' High School
-- :mortar_board: Diploma In Engineering : Feni Computer Institute 
+<table>
+<tr>
+  <td valign="center">
+    🎓 I am currently pursuing my Diploma In Engineering in Computer Science & Technology.
+    🌱 I am currently learning JavaScript, React, NodeJs , Redux and also interested in **Web Development**.
+    :woman_technologist: I am currently working on [![eHostel](https://img.shields.io/badge/eHostel-000?style=for-the-badge)](https://github.com/jihan212/ehostel)
+    ✨ In my free time I like to spend my time in reading books, photography or just browsing internet.
+    :ghost: Interesting fact : I'm ODD :alien:
+  <td >
+   <a href="https://app.daily.dev/jihan212"><img src="https://github.com/jihan212/jihan212/blob/main/devcard.svg" width="150" alt="Jihan's Dev Card"/></a>
+  </td>
+
+</tr>
+</table>
 
 ## 📫 How to reach me
 
