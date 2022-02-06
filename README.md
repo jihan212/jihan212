@@ -1,7 +1,7 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Jihan</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br /> I'm Jihan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [ehostel](https://github.com/jihan212/ehostel)
+- 🔭 I’m currently working on [eHostel](https://github.com/jihan212/ehostel)
 
 - 🌱 I’m currently learning **JavaScript, React, Node.js , Redux.**
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [![Medium](https://img.shields.io/badge/medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://zihanjashim2121.medium.com/)
 
-- 📫 How to reach me [![Mail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](zihanjashim2121@gmail.com)
+- 📫 How to reach me **zihanjashim2121@gmail.com**
 
 - 📄 Know about my experiences [![Resume](https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1xQHZa5Rd5ZD4KfkMa8hrXTxcKswJWo3y/view)
 - ⚡ Fun fact **I'm odd 👽**
@@ -17,12 +17,12 @@
 ## 📫 How to reach me
 
 <p align="left">
-<a href="https://dev.to/@jihan212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@jihan212" height="30" width="40" /></a>
-<a href="https://twitter.com/jihan_jashim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jihan_jashim" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jihan-binte-jashim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jihan-binte-jashim/" height="30" width="40" /></a>
+<a href="https://twitter.com/jihan_jashim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jihan_jashim" height="30" width="40" /></a>
 <a href="https://medium.com/@zihanjashim2121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zihanjashim2121" height="30" width="40" /></a>
 <a href="https://www.reddit.com/user/ascetica212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="ascetica212" height="30" width="40" /></a>
 <a href="https://ascetica212.tumblr.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tumblr.svg" alt="ascetica212" height="30" width="40" /></a>
+<a href="https://dev.to/@jihan212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@jihan212" height="30" width="40" /></a>
 <a href="https://open.spotify.com/user/nf26im9k6h52sk2fh7h3n0px5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="ascetica212" height="30" width="40" /></a>
 </p>
 
