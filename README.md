@@ -36,8 +36,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jihan212&count_private=true&show_icons=true&theme=nord" alt="jihan212" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jihan212&theme=dark" alt="jihan212" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jihan212&theme=nord" alt="jihan212" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jihan212&theme=dark" alt="jihan212" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jihan212&theme=nord" alt="jihan212" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jihan212&theme=dark" alt="jihan212" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jihan212&theme=nord" alt="jihan212" /> </p>
