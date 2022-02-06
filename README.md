@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-3305c.web.app/)
 
-- 📝 I regularly write articles on [![Medium](https://img.shields.io/badge/medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://zihanjashim2121.medium.com/)
-
 - 📫 How to reach me **zihanjashim2121@gmail.com**
 
 - 📄 Know about my experiences [![Resume](https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1xQHZa5Rd5ZD4KfkMa8hrXTxcKswJWo3y/view)
