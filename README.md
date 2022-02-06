@@ -1,18 +1,17 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Jihan</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Jihan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on [ehostel](https://github.com/jihan212/ehostel)
 
 - 🌱 I’m currently learning **JavaScript, React, Node.js , Redux.**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-3305c.web.app/](https://portfolio-3305c.web.app/)
+- 👨‍💻 All of my projects are available at [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-3305c.web.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@zihanjashim2121](https://medium.com/@zihanjashim2121)
+- 📝 I regularly write articles on [![Medium](https://img.shields.io/badge/medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://zihanjashim2121.medium.com/)
 
 - 📫 How to reach me **zihanjashim2121@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xQHZa5Rd5ZD4KfkMa8hrXTxcKswJWo3y/view](https://drive.google.com/file/d/1xQHZa5Rd5ZD4KfkMa8hrXTxcKswJWo3y/view)
-
+- 📄 Know about my experiences [![Resume](https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1xQHZa5Rd5ZD4KfkMa8hrXTxcKswJWo3y/view)
 - ⚡ Fun fact **I'm odd 👽**
 
 ## 📫 How to reach me
