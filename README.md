@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [![Medium](https://img.shields.io/badge/medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://zihanjashim2121.medium.com/)
 
-- 📫 How to reach me **zihanjashim2121@gmail.com**
+- 📫 How to reach me [![Mail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](zihanjashim2121@gmail.com)
 
 - 📄 Know about my experiences [![Resume](https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1xQHZa5Rd5ZD4KfkMa8hrXTxcKswJWo3y/view)
 - ⚡ Fun fact **I'm odd 👽**
@@ -38,7 +38,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jihan212&theme=nord" alt="jihan212" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jihan212&theme=nord" alt="jihan212" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jihan212&theme=nord" alt="jihan212" /></a> </p>
 
 <p><a href="https://app.daily.dev/jihan212"><img align="center" src="https://github.com/jihan212/jihan212/blob/main/devcard.svg" width="150" alt="Jihan's Dev Card"/></a></p>
 
