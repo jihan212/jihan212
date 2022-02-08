@@ -44,4 +44,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jihan212&theme=nord" alt="jihan212" /> </p>
 
-![Jokes Card](https://readme-jokes.vercel.app/api&hideBorder&theme=prussian)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=prussian)
