@@ -1,7 +1,7 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h2 align="center">I am Jihan</h2>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Jihan </h1>
 <h3 align="center">A passionate frontend developer</h3>
-<p align="center">At first have some lough  **iykyk** 😜 </p>
+
+<p align="center">At first have some lough  <strong>iykyk</strong> 😜 </p>
 
 <p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=prussian" alt="Jokes Card" /></p>
 
