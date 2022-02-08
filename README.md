@@ -2,7 +2,7 @@
 
 <h2 align="center">A passionate frontend developer</h2>
 
-<h3 align="center">At first have some lough  <strong>iykyk</strong> 😜 </h3>
+<h3 align="center">At first have some lough  <b>iykyk</b> 😜 </h3>
 
 <p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=prussian" alt="Jokes Card" /></p>
 
