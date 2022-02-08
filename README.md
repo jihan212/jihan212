@@ -52,7 +52,3 @@
 <p><a href="https://app.daily.dev/jihan212"><img align="center" src="https://github.com/jihan212/jihan212/blob/main/devcard.svg" width="150" alt="Jihan's Dev Card"/></a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jihan212&theme=nord" alt="jihan212" /> </p>
-
-### At last have some lough  **iykyk**  :stuck_out_tongue_winking_eye: 
-
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=prussian)
