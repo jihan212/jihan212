@@ -1,4 +1,4 @@
-<h3 align="center">At first have some lough  <b>iykyk</b> 😜 </h3>
+<h3 align="center">At first have some lough ~ IYKYK 😜 </h3>
 
 <p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=prussian" alt="Jokes Card" /></p>
 
