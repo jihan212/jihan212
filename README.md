@@ -41,7 +41,11 @@
 
 ## 📈 Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihan212&theme=nord" alt="jihan212" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihan212&theme=nord" alt="jihan212" />
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/jihan212/jihan212/blob/main/devcard.svg" alt="Jihan's Dev Card" width="200" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jihan212&count_private=true&show_icons=true&theme=nord" alt="jihan212" width="45%">
@@ -57,5 +61,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihan212&theme=nord" alt="jihan212" />
   &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/jihan212/jihan212/blob/main/devcard.svg" alt="Jihan's Dev Card" width="200" />
+  <a href="https://app.daily.dev/jihan212"><img src="https://github.com/jihan212/jihan212/blob/main/devcard.svg" width="200" alt="Jihan's Dev Card"/></a>
 </p>
