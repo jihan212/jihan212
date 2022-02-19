@@ -25,7 +25,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/jihan-binte-jashim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jihan-binte-jashim/" height="30" width="40" /></a>
-<a href="https://twitter.com/jihan_jashim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jihan_jashim" height="30" width="40" /></a>
+<a href="https://twitter.com/jihanbjashim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jihan_jashim" height="30" width="40" /></a>
 <a href="https://medium.com/@zihanjashim2121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zihanjashim2121" height="30" width="40" /></a>
 <a href="https://www.reddit.com/user/ascetica212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="ascetica212" height="30" width="40" /></a>
 <a href="https://ascetica212.tumblr.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tumblr.svg" alt="ascetica212" height="30" width="40" /></a>
