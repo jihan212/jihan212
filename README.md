@@ -57,5 +57,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihan212&theme=nord" alt="jihan212" />
   
-  <a href="https://app.daily.dev/jihan212"><img align="center" src="https://github.com/jihan212/jihan212/blob/main/devcard.svg" width="200" alt="Jihan's Dev Card"/></a>
+  <img align="center" src="https://github.com/jihan212/jihan212/blob/main/devcard.svg" width="200" alt="Jihan's Dev Card"/>
 </p>
