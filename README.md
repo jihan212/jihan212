@@ -55,6 +55,6 @@
 
 
 <p align="center">
-  <a href="https://app.daily.dev/jihan212"><img align="center" src="https://github.com/jihan212/jihan212/blob/main/devcard.svg" width="30%" alt="Jihan's Dev Card"/></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihan212&theme=nord" alt="jihan212" width="30%">
+  <a href="https://app.daily.dev/jihan212"><img align="center" src="https://github.com/jihan212/jihan212/blob/main/devcard.svg" width="170" alt="Jihan's Dev Card"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihan212&theme=nord" alt="jihan212">
 </p>
