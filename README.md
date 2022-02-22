@@ -4,8 +4,6 @@
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Jihan </h1>
 
-<h2 align="center">A passionate frontend developer</h2>
-
 ## 🙋‍♀️ About me 
 
 - 🔭 I’m currently working on [eHostel](https://github.com/jihan212/ehostel)
