@@ -4,11 +4,13 @@
 
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Jihan </h1> 
 
-- 👨‍💻 currently working on [eHostel](https://github.com/jihan212/ehostel)
+<h1 align="center"> I'm Jihan </h1> 
 
-- 🌱 currently learning **JavaScript, React, Node.js , Redux.**
+- 👨‍💻 working on [eHostel](https://github.com/jihan212/ehostel)
 
-- 👩‍🎓 currently studying in **Computer Science & Technology**
+- 🌱 learning **JavaScript, React, Node.js , Redux.**
+
+- 👩‍🎓 studying in **Computer Science & Technology**
 
 - ⚡ Fun fact **I'm odd 👽**
 
