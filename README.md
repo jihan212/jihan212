@@ -2,9 +2,7 @@
 
 <p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=prussian" alt="Jokes Card" /></p>
 
-<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> 
-
-<h1 align="center"> I'm Jihan </h1> 
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br /> I'm Jihan </h1> 
 
 - 👨‍💻 working on [eHostel](https://github.com/jihan212/ehostel)
 
