@@ -2,15 +2,13 @@
 
 <p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=prussian" alt="Jokes Card" /></p>
 
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Jihan </h1>
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Jihan </h1> 
 
-## 🙋‍♀️ About me 
+- 👨‍💻 currently working on [eHostel](https://github.com/jihan212/ehostel)
 
-- 👨‍💻 I’m currently working on [eHostel](https://github.com/jihan212/ehostel)
+- 🌱 currently learning **JavaScript, React, Node.js , Redux.**
 
-- 🌱 I’m currently learning **JavaScript, React, Node.js , Redux.**
-
-- 👩‍🎓 I’m currently studying in **Computer Science & Technology**
+- 👩‍🎓 currently studying in **Computer Science & Technology**
 
 - ⚡ Fun fact **I'm odd 👽**
 
