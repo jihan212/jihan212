@@ -1,12 +1,12 @@
-<h3 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> At first have some lough ~ IYKYK 😜 </h3>
+<h2 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> At first have some lough ~ IYKYK 😜 </h2>
 
 <p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=prussian" alt="Jokes Card" /></p>
 
-## About Myself
+## Currently I am ~
 
-- 👨‍💻 working on [eHostel](https://github.com/jihan212/ehostel)
+- 👨‍💻 working on [eHostel | Hostel management system](https://github.com/jihan212/ehostel)
 
-- 🌱 learning **JavaScript, React, Node.js , Redux.**
+- 🌱 learning **JavaScript, React, Node.js**
 
 - 👩‍🎓 studying in **Computer Science & Technology**
 
