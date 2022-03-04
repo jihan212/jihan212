@@ -1,11 +1,11 @@
-<h2>Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> At first have some lough IYKYK 😜 </h2>
+<h2>At first have some lough IYKYK 😜 </h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=prussian)
 <!-- <p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=prussian" alt="Jokes Card" /></p> -->
 
-## Currently I am ~
+<h2> Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> </h2>
 
-- 👨‍💻 working on [eHostel | Hostel management system](https://github.com/jihan212/ehostel)
+- 👨‍💻 Currently I am working on [eHostel | Hostel management system](https://github.com/jihan212/ehostel)
 
 - 🌱 learning **JavaScript, React, Node.js**
 
