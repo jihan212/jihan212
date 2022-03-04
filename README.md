@@ -3,7 +3,8 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=prussian)
 <!-- <p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=prussian" alt="Jokes Card" /></p> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jihan212&style=plastic	" alt="jihan212" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jihan212&style=plastic	" alt="jihan212" /> </p> -->
+![](https://komarev.com/ghpvc/?username=jihan212&style=plastic)
 
 <h2> Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> </h2>
 
