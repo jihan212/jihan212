@@ -4,21 +4,12 @@
   </a>
 </h1>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=jihan212&style=plastic&color=lightgrey" />
-</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jihan212&style=plastic&color=lightgrey" alt="jihan212" /> </p>
-
 
 <h2> At first have some lough 😜 </h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=prussian)
-<!-- <p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=prussian" alt="Jokes Card" /></p> -->
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jihan212&style=plastic	" alt="jihan212" /> </p> -->
-<!-- ![](https://komarev.com/ghpvc/?username=jihan212&style=plastic&color=lightgrey) -->
-
-<!-- <h2> Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> </h2> -->
 <h2> I am currently ~ </h2>
 
 - 👨‍💻 working on [eHostel | Hostel management system](https://github.com/jihan212/ehostel)
@@ -69,3 +60,10 @@
 <!-- <p><a href="https://app.daily.dev/jihan212"><img align="center" src="https://github.com/jihan212/jihan212/blob/main/devcard.svg" width="150" alt="Jihan's Dev Card"/></a></p> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jihan212&theme=nord" alt="jihan212" /> </p> -->
+
+<!-- <p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=prussian" alt="Jokes Card" /></p> -->
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jihan212&style=plastic	" alt="jihan212" /> </p> -->
+<!-- ![](https://komarev.com/ghpvc/?username=jihan212&style=plastic&color=lightgrey) -->
+
+<!-- <h2> Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> </h2> -->
