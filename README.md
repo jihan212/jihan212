@@ -12,9 +12,10 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jihan212&style=plastic	" alt="jihan212" /> </p> -->
 ![](https://komarev.com/ghpvc/?username=jihan212&style=plastic&color=lightgrey)
 
-<h2> Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> </h2>
+<!-- <h2> Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> </h2> -->
+<h2> I am currently ~ </h2>
 
-- 👨‍💻 Currently I am working on [eHostel | Hostel management system](https://github.com/jihan212/ehostel)
+- 👨‍💻 working on [eHostel | Hostel management system](https://github.com/jihan212/ehostel)
 
 - 🌱 learning **JavaScript, React, Node.js**
 
