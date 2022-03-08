@@ -1,3 +1,9 @@
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">;Jihan+Here...;It's+great+connecting+with+you!&center=true&size=22">
+  </a>
+</h1>
+
 <h2> At first have some lough 😜 </h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=prussian)
