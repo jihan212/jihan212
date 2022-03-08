@@ -5,10 +5,6 @@
 </h1>
 
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/jihan212/count.svg" />
-</p>
-<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=jihan212&style=plastic&color=lightgrey" />
 </p>
 
