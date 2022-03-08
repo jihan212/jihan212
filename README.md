@@ -55,6 +55,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihan212&theme=nord" alt="jihan212" width="45%">
 </p>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jihan212/count.svg" />
+</p>
+
 <!-- <p><a href="https://app.daily.dev/jihan212"><img align="center" src="https://github.com/jihan212/jihan212/blob/main/devcard.svg" width="150" alt="Jihan's Dev Card"/></a></p> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jihan212&theme=nord" alt="jihan212" /> </p> -->
