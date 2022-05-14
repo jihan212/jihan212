@@ -73,6 +73,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@jihanbjashim: 8 common React error messages and how to address them](https://twitter.com/jihanbjashim/status/1525133752992931841)
+- [@jihanbjashim: 5 Rules to master ‘this’ in Javascript{ by @tushartiwarii } from @hashnode#javascript](https://twitter.com/jihanbjashim/status/1524773442490617856)
+- [@jihanbjashim:](https://twitter.com/jihanbjashim/status/1524083480774475777)
+- [@jihanbjashim: The Real Beauty of Software Engineering by @AttilaTheDev in @gitconnected](https://twitter.com/jihanbjashim/status/1524082258898219008)
+- [@Prathkum: Learn for freeHTML →  →  →  and GitHub →  →  → @Rapid_APISQL →  →](https://twitter.com/Prathkum/status/1523318326256017416)
 <!-- TWITTER:END -->
 
 <!-- [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=jihanbjashim&layout=wide)](https://github.com/gazf/github-readme-twitter) -->
