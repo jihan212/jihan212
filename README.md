@@ -8,15 +8,12 @@
 <p align="center"> <img src="https://visitcount.itsvg.in/api?id=jihan212&icon=1&color=3" alt="jihan212" /> </p>
 [![](https://visitcount.itsvg.in/api?id=jihan212&icon=1&color=3)](https://visitcount.itsvg.in)
 
-<h2> At first have some lough 😜 </h2>
+<!-- <h2> At first have some lough 😜 </h2>
 
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=prussian)
- -->
+ --> -->
  ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 <h2> I am currently ~ </h2>
 
@@ -89,3 +86,6 @@
 <!-- TWITTER:END -->
 
 <!-- [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=jihanbjashim&layout=wide)](https://github.com/gazf/github-readme-twitter) -->
+
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
