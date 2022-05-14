@@ -14,7 +14,7 @@
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=prussian)
  --> 
  
-# I am currently ~ </h2>
+# Hey there I am Jihan  </h2>
 
 - 👨‍💻 working on [eHostel | Hostel management system](https://github.com/jihan212/ehostel)
 
