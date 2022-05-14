@@ -14,7 +14,7 @@
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=prussian)
  --> 
  
-## Hey there I am Jihan <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" allign="right" width="80px"/>  
+## <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" allign="right" width="100px"/>  Hey there I am Jihan  
 
 - 👨‍💻 working on [eHostel | Hostel management system](https://github.com/jihan212/ehostel)
 
