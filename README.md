@@ -6,10 +6,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jihan212&style=plastic&color=green" alt="jihan212" /> </p>
 
+![](https://visitcount.itsvg.in/api?id=jihan212&icon=1&color=3)](https://visitcount.itsvg.in)
+
+
 <!-- <h2> At first have some lough 😜 </h2>
 
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=prussian)
- --> -->
+ --> 
  ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
