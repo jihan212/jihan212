@@ -68,4 +68,4 @@
 
 <!-- <h2> Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> </h2> -->
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?jihan212=gazff)](https://github.com/gazf/github-readme-twitter)
+<!-- [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?jihan212=gazff)](https://github.com/gazf/github-readme-twitter) -->
