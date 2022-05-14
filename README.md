@@ -72,4 +72,4 @@
 
 ### 📱 Latest Tweets
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=jihanbjashim)](https://github.com/gazf/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=jihanbjashim&layout=wide&show_border=off&show_retweet=on)](https://github.com/gazf/github-readme-twitter)
