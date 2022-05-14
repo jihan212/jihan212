@@ -5,8 +5,7 @@
 </h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jihan212&style=plastic&color=lightgrey" alt="jihan212" /> </p>
-<p align="center"> <img src="https://visitcount.itsvg.in/api?id=jihan212&icon=1&color=3" alt="jihan212" /> </p>
-[![](https://visitcount.itsvg.in/api?id=jihan212&icon=1&color=3)](https://visitcount.itsvg.in)
+[](https://visitcount.itsvg.in/api?id=jihan212&icon=1&color=3)](https://visitcount.itsvg.in)
 
 <!-- <h2> At first have some lough 😜 </h2>
 
