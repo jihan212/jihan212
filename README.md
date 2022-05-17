@@ -86,11 +86,11 @@
 ## 📱Latest Tweets
 
 <!-- TWITTER:START -->
+- [@feralballads: may you attract someone who speaks your language so you don’t have to spend a lifetime translating your soul.](https://twitter.com/feralballads/status/1526209218725834753)
+- [@sunilc_: Preparing for a Software Developer job interview?Here&#39;s a list of problems in each category that you should practice:](https://twitter.com/sunilc_/status/1526196567450914816)
+- [@ZairaWasimmm: “The person that loves fame has not feared Allāh. Do not act in order to be mentioned. And hide your good deeds like you hide your bad ones!&quot;—Bishr Ibn Hārith](https://twitter.com/ZairaWasimmm/status/1525911608425205761)
 - [@jihanbjashim: 8 common React error messages and how to address them](https://twitter.com/jihanbjashim/status/1525133752992931841)
 - [@jihanbjashim: 5 Rules to master ‘this’ in Javascript{ by @tushartiwarii } from @hashnode#javascript](https://twitter.com/jihanbjashim/status/1524773442490617856)
-- [@jihanbjashim:](https://twitter.com/jihanbjashim/status/1524083480774475777)
-- [@jihanbjashim: The Real Beauty of Software Engineering by @AttilaTheDev in @gitconnected](https://twitter.com/jihanbjashim/status/1524082258898219008)
-- [@Prathkum: Learn for freeHTML →  →  →  and GitHub →  →  → @Rapid_APISQL →  →](https://twitter.com/Prathkum/status/1523318326256017416)
 <!-- TWITTER:END -->
 
 <!-- [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=jihanbjashim&layout=wide)](https://github.com/gazf/github-readme-twitter) -->
