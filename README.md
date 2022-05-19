@@ -90,11 +90,11 @@
 ## 📱Latest Tweets
 
 <!-- TWITTER:START -->
+- [@jihanbjashim: Object-Oriented Programming Explained Like Never Before{ by @kumartul001 } from @hashnode#javascript #oop #objectoriented-programming #hackathon #thwweb-apps](https://twitter.com/jihanbjashim/status/1526970429784883200)
+- [@mohjb: JavaScript did not replace V8, V8 didn&#39;t replace C++, C++ didn&#39;t replace C, C didn&#39;t replace Assembly, Assembly didn&#39;t replace machine code, And machine code didn&#39;t replace the CPUThinking in &quot;replace&quot; is like thinking, you will replace your food](https://twitter.com/mohjb/status/1526951648446357504)
+- [@NavalismHQ: &quot;Money does buy happiness, if you earned it.&quot;@naval](https://twitter.com/NavalismHQ/status/1526900910814744576)
 - [@feralballads: may you attract someone who speaks your language so you don’t have to spend a lifetime translating your soul.](https://twitter.com/feralballads/status/1526209218725834753)
 - [@sunilc_: Preparing for a Software Developer job interview?Here&#39;s a list of problems in each category that you should practice:](https://twitter.com/sunilc_/status/1526196567450914816)
-- [@ZairaWasimmm: “The person that loves fame has not feared Allāh. Do not act in order to be mentioned. And hide your good deeds like you hide your bad ones!&quot;—Bishr Ibn Hārith](https://twitter.com/ZairaWasimmm/status/1525911608425205761)
-- [@jihanbjashim: 8 common React error messages and how to address them](https://twitter.com/jihanbjashim/status/1525133752992931841)
-- [@jihanbjashim: 5 Rules to master ‘this’ in Javascript{ by @tushartiwarii } from @hashnode#javascript](https://twitter.com/jihanbjashim/status/1524773442490617856)
 <!-- TWITTER:END -->
 
 <!-- [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=jihanbjashim&layout=wide)](https://github.com/gazf/github-readme-twitter) -->
