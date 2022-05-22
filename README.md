@@ -53,10 +53,10 @@
 
 ## 📊Stats
 
-<a href="https://app.daily.dev/jihan212"><img src="https://github.com/jihan212/jihan212/blob/main/devcard.svg" width="250" alt="Jihan's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/jihan212"><img src="https://github.com/jihan212/jihan212/blob/main/devcard.svg" width="250" alt="Jihan's Dev Card"/></a>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihan212&theme=merko&hide_border=true" width="50%" alt="jihan212" >
-
-<!-- <p align="center">
+ -->
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihan212&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="jihan212" />
   &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://app.daily.dev/jihan212"><img src="https://github.com/jihan212/jihan212/blob/main/devcard.svg" width="220" alt="Jihan's Dev Card"/></a>
@@ -66,7 +66,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jihan212&theme=merko&hide_border=true&include_all_commits=true&count_private=true" alt="jihan212" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihan212&theme=merko&hide_border=true" alt="jihan212" width="45%">
-</p> -->
+</p>
   
 <!-- 
 <p align="center"> 
