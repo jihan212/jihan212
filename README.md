@@ -90,7 +90,7 @@
 <!-- ## 📱Latest Tweets -->
 
 <!-- TWITTER:START -->
-<!-- - [[Action required] Your RSS.app Trial has Expired.](https://rss.app) -->
+- [[Action required] Your RSS.app Trial has Expired.](https://rss.app)
 <!-- TWITTER:END -->
 
 <!-- [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=jihanbjashim&layout=wide)](https://github.com/gazf/github-readme-twitter) -->
