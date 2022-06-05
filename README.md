@@ -14,9 +14,10 @@
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=prussian)
  --> 
  
-## <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" allign="right" width="50px"/>  Hey there I am Jihan  
+<img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" allign="right" width="50px"/>  
+## Hey there I am Jihan
 
-- 👨‍💻 working on [eHostel | Hostel management system](https://github.com/jihan212/ehostel)
+- 👨‍💻 working on [petInfo | Pet service provider](https://github.com/jihan212/vet-info)
 
 - 🌱 learning **JavaScript, React, Node.js**
 
