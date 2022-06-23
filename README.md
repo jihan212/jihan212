@@ -14,7 +14,7 @@
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=prussian)
  --> 
  
-<img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" allign="right" width="50px"/>  
+<!-- <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" allign="right" width="50px"/>   -->
 
 ## Hey there I am Jihan
 
@@ -27,10 +27,10 @@
 - ⚡ Fun fact **I'm odd 👽**
 
 
-## ✍️ Random Dev Quote
+<!-- ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
----
+--- -->
 
 ## 🌐Social Links
 
@@ -87,15 +87,6 @@
 
 <!-- <h2> Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> </h2> -->
 
-<!-- [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?jihan212=gazff)](https://github.com/gazf/github-readme-twitter) -->
-
-<!-- ## 📱Latest Tweets -->
-
-<!-- TWITTER:START -->
-- [[Action required] Your RSS.app Trial has Expired.](https://rss.app)
-<!-- TWITTER:END -->
-
-<!-- [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=jihanbjashim&layout=wide)](https://github.com/gazf/github-readme-twitter) -->
 
 ## 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="350px"/>
