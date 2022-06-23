@@ -94,9 +94,9 @@
 
 
 <div class="row">
-	<div class="column small-6 medium-6 large-6">
+	<div class="column small-2 medium-2 large-2">
     
- ## Hey there I am Jihan
+		<h2> Hey there I am Jihan </h2>
 
 - 👨‍💻 working on [petInfo | Pet service provider](https://github.com/jihan212/vet-info)
 
@@ -107,7 +107,7 @@
 - ⚡ Fun fact **I'm odd 👽**
     
   </div>
-  <div class="column small-6 medium-6 large-6">
+  <div class="column small-2 medium-2 large-2">
   
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihan212&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="jihan212" />
   
