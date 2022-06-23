@@ -7,7 +7,12 @@
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=jihan212&style=plastic&color=green" alt="jihan212" /> </p> -->
 
 ## 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="350px"/>
+
+<p align="center">
+    <img src="https://random-memer.herokuapp.com/" width="350px"/>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://app.daily.dev/jihan212"><img src="https://github.com/jihan212/jihan212/blob/main/devcard.svg" width="220" alt="Jihan's Dev Card"/></a>
+</p>
 
 ![](https://visitcount.itsvg.in/api?id=jihan212&icon=1&color=3)
 
@@ -90,26 +95,3 @@
 
 <!-- <h2> Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> </h2> -->
 
-
-
-
-<div class="row">
-	<div class="column small-2 medium-2 large-2">
-    
-		<h2> Hey there I am Jihan </h2>
-
-- 👨‍💻 working on [petInfo | Pet service provider](https://github.com/jihan212/vet-info)
-
-- 🌱 learning **JavaScript, React, Node.js**
-
-- 👩‍🎓 studying in **Computer Science & Technology**
-
-- ⚡ Fun fact **I'm odd 👽**
-    
-  </div>
-  <div class="column small-2 medium-2 large-2">
-  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihan212&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="jihan212" />
-  
-  </div>
-</div>
