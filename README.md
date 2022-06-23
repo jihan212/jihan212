@@ -92,8 +92,14 @@
 
 
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+
+| ## Hey there I am Jihan                                                                  |
+
+| - 👨‍💻 working on [petInfo | Pet service provider](https://github.com/jihan212/vet-info)   |
+
+| - 🌱 learning **JavaScript, React, Node.js**                                             | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihan212&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="jihan212" />
+
+| - 👩‍🎓 studying in **Computer Science & Technology**                                       |
+
+| - ⚡ Fun fact **I'm odd 👽**                                                             |
+
