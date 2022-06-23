@@ -1,28 +1,12 @@
-<!-- <h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;Jihan+Here...;It's+great+connecting+with+you!&center=true&size=22">
-  </a>
-</h1>
- -->
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=jihan212&style=plastic&color=green" alt="jihan212" /> </p> -->
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
+<!-- ---
 ## 😂Random Dev Meme
 
-<p align="center">
-    <img src="https://random-memer.herokuapp.com/" width="350px"/>
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <a href="https://app.daily.dev/jihan212"><img src="https://github.com/jihan212/jihan212/blob/main/devcard.svg" width="220" alt="Jihan's Dev Card"/></a>
-</p>
+<img src="https://random-memer.herokuapp.com/" width="350px"/> -->
 
 ![](https://visitcount.itsvg.in/api?id=jihan212&icon=1&color=3)
-
-
-<!-- <h2> At first have some lough 😜 </h2>
-
-<!-- ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=prussian)
- --> 
- 
-<!-- <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" allign="right" width="50px"/>   -->
 
 ## Hey there I am Jihan
 
@@ -33,12 +17,6 @@
 - 👩‍🎓 studying in **Computer Science & Technology**
 
 - ⚡ Fun fact **I'm odd 👽**
-
-
-<!-- ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
---- -->
 
 ## 🌐Social Links
 
@@ -63,9 +41,6 @@
 
 ## 📊Stats
 
-<!-- <a href="https://app.daily.dev/jihan212"><img src="https://github.com/jihan212/jihan212/blob/main/devcard.svg" width="250" alt="Jihan's Dev Card"/></a>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jihan212&theme=merko&hide_border=true" width="50%" alt="jihan212" >
- -->
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihan212&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="jihan212" />
   &nbsp; &nbsp; &nbsp; &nbsp;
@@ -78,20 +53,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihan212&theme=merko&hide_border=true" alt="jihan212" width="45%">
 </p>
   
-<!-- 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/jihan212/count.svg" />
-</p>
- -->
-<!-- <p><a href="https://app.daily.dev/jihan212"><img align="center" src="https://github.com/jihan212/jihan212/blob/main/devcard.svg" width="150" alt="Jihan's Dev Card"/></a></p> -->
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jihan212&theme=nord" alt="jihan212" /> </p> -->
-
-<!-- <p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=prussian" alt="Jokes Card" /></p> -->
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jihan212&style=plastic	" alt="jihan212" /> </p> -->
-<!-- ![](https://komarev.com/ghpvc/?username=jihan212&style=plastic&color=lightgrey) -->
-
-<!-- <h2> Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> </h2> -->
-
