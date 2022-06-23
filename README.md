@@ -6,6 +6,9 @@
  -->
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=jihan212&style=plastic&color=green" alt="jihan212" /> </p> -->
 
+## 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="350px"/>
+
 ![](https://visitcount.itsvg.in/api?id=jihan212&icon=1&color=3)
 
 
@@ -88,5 +91,9 @@
 <!-- <h2> Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> </h2> -->
 
 
-## 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="350px"/>
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
