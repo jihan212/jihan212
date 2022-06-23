@@ -93,13 +93,20 @@
 
 
 
-| ## Hey there I am Jihan                                                                  |
+<p float="left">
+  <div>
+    ## Hey there I am Jihan
 
-| - 👨‍💻 working on [petInfo | Pet service provider](https://github.com/jihan212/vet-info)   |
+    - 👨‍💻 working on [petInfo | Pet service provider](https://github.com/jihan212/vet-info)
 
-| - 🌱 learning **JavaScript, React, Node.js**                                             | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihan212&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="jihan212" />
+    - 🌱 learning **JavaScript, React, Node.js**
 
-| - 👩‍🎓 studying in **Computer Science & Technology**                                       |
+    - 👩‍🎓 studying in **Computer Science & Technology**
 
-| - ⚡ Fun fact **I'm odd 👽**                                                             |
+    - ⚡ Fun fact **I'm odd 👽**
+  </div>
+  <div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihan212&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="jihan212" />
+  </div>
+</p>
 
