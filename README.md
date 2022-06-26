@@ -48,7 +48,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jihan212&theme=merko&hide_border=true&include_all_commits=true&count_private=true" alt="jihan212" width="45%">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=jihan212&theme=merko&hide_border=true&include_all_commits=true&count_private=true" alt="jihan212" width="45%"> -->
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihan212&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="jihan212" />
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihan212&theme=merko&hide_border=true" alt="jihan212" width="45%">
 </p>
