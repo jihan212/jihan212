@@ -1,10 +1,7 @@
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<!-- ---
-## 😂Random Dev Meme
-
-<img src="https://random-memer.herokuapp.com/" width="350px"/> -->
+<h1 align="center">Hey there 👋, I am Jihan</h1>
 
 ![](https://visitcount.itsvg.in/api?id=jihan212&icon=1&color=3)
 
@@ -47,7 +44,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihan212&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="jihan212" />
   
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihan212&theme=merko&hide_border=true" alt="jihan212" > 
-   <a href="https://app.daily.dev/jihan212"><img src="https://github.com/jihan212/jihan212/blob/main/devcard.svg" width="220" alt="Jihan's Dev Card"/>
+<!--    <a href="https://app.daily.dev/jihan212"><img src="https://github.com/jihan212/jihan212/blob/main/devcard.svg" width="220" alt="Jihan's Dev Card"/> -->
 
 <!-- <p align="center">
   <a href="https://app.daily.dev/jihanbjashim"><img src="https://github.com/jihan212/jihan212/blob/main/devcard.svg" width="220" alt="Jihan's Dev Card"/></a>
@@ -55,3 +52,9 @@
   
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihan212&theme=merko&hide_border=true" alt="jihan212" > 
 </p> -->
+
+
+<!-- ---
+## 😂Random Dev Meme
+
+<img src="https://random-memer.herokuapp.com/" width="350px"/> -->
