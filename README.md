@@ -8,7 +8,7 @@
 
 ![](https://visitcount.itsvg.in/api?id=jihan212&icon=1&color=3)
 
-<img align="right" alt="coding" width="400" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="400" src= "https://github.com/jihan212/jihan212/blob/main/devcard.svg">
 
 ## Hey there I am Jihan
 
