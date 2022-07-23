@@ -15,15 +15,16 @@
 ## 🌐Social Links
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jihan-binte-jashim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jihan-binte-jashim/" height="30" width="40" /></a>
-<a href="https://twitter.com/jihanbjashim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jihan_jashim" height="30" width="40" /></a>
-<a href="https://jihanbjashim.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zihanjashim2121" height="30" width="40" /></a>
-<a href="https://www.reddit.com/user/jihanbjashim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="ascetica212" height="30" width="40" /></a>
-<a href="https://jihanbjashim.tumblr.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tumblr.svg" alt="ascetica212" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jihanbjashim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jihanbjashim" height="30" width="40" /></a>
+<a href="https://twitter.com/jihanbjashim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jihanbjashim" height="30" width="40" /></a>
+<a href="https://jihanbjashim.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="jihanbjashim" height="30" width="40" /></a>
+<a href="https://www.reddit.com/user/jihanbjashim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="jihanbjashim" height="30" width="40" /></a>
+<a href="https://jihanbjashim.tumblr.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tumblr.svg" alt="jihanbjashim" height="30" width="40" /></a>
 <a href="https://app.daily.dev/jihan212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@jihan212" height="30" width="40" /></a>
-<a href="https://open.spotify.com/user/nf26im9k6h52sk2fh7h3n0px5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="ascetica212" height="30" width="40" /></a>
-<a href="https://codepen.io/jihanbjashim/collections/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ascetica212" height="30" width="40" /></a>
-<a href="https://www.instagram.com/snap__per/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ascetica212" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/nf26im9k6h52sk2fh7h3n0px5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="jihanbjashim" height="30" width="40" /></a>
+<a href="https://codepen.io/jihanbjashim/collections/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jihanbjashim" height="30" width="40" /></a>
+<a href="https://www.instagram.com/snap__per/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jihanbjashim" height="30" width="40" /></a>
+<a href="https://jihanbjashim.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="jihanbjashim" height="30" width="40" /></a>
 </p>
 
 <!-- ----------------------- tech stack--------------------------- -->
