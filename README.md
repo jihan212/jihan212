@@ -16,7 +16,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jihanbjashim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jihanbjashim" height="30" width="40" /></a>
-<a href="https://twitter.com/jihanbjashim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jihanbjashim" height="30" width="40" /></a>
+<a href="https://twitter.com/jihanbjashim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="jihanbjashim" height="30" width="40" /></a>
 <a href="https://jihanbjashim.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="jihanbjashim" height="30" width="40" /></a>
 <a href="https://www.reddit.com/user/jihanbjashim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="jihanbjashim" height="30" width="40" /></a>
 <a href="https://jihanbjashim.tumblr.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tumblr.svg" alt="jihanbjashim" height="30" width="40" /></a>
