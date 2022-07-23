@@ -1,17 +1,10 @@
 <h1 align="center">✍️ Random Dev Quote</h1>
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&align=center)
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
 <h1 align="center">Hey there 👋, I am Jihan</h1>
-
 ![](https://visitcount.itsvg.in/api?id=jihan212&icon=1&color=3)
 
 <img align="right" alt="coding" width="250" src= "https://github.com/jihan212/jihan212/blob/main/devcard.svg">
-
-
 
 - 👨‍💻 working on [petInfo | Pet service provider](https://github.com/jihan212/vet-info)
 
@@ -23,7 +16,7 @@
 
 ## 🌐Social Links
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/jihan-binte-jashim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jihan-binte-jashim/" height="30" width="40" /></a>
 <a href="https://twitter.com/jihanbjashim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jihan_jashim" height="30" width="40" /></a>
 <a href="https://medium.com/@zihanjashim2121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zihanjashim2121" height="30" width="40" /></a>
