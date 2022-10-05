@@ -6,7 +6,7 @@
 
 - 👨‍💻 working on [petInfo | Pet service provider](https://github.com/jihan212/petinfo-frontend)
 
-- 🌱 learning **JavaScript, React, Node.js**
+- 🌱 learning **JavaScript, React, Node.js, SQL**
 
 - 👩‍🎓 studying in **Computer Science & Technology**
 
