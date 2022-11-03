@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="250" src= "https://github.com/jihan212/jihan212/blob/main/devcard.svg">
 
-- 👨‍💻 working on [petInfo | Pet service provider](https://github.com/jihan212/petinfo-frontend)
+<!-- - 👨‍💻 working on [petInfo | Pet service provider](https://github.com/jihan212/petinfo-frontend) -->
 
 - 🌱 learning **JavaScript, React, Node.js, SQL**
 
