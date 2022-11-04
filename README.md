@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I am Jihan</h1>
 
-[![@jihanbjashim's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://www.holopin.io/@jihanbjashim)
+[![@jihanbjashim's Holopin board](https://holopin.me/jihanbjashim)](https://holopin.io/@jihanbjashim)
 
 <img align="right" alt="coding" width="250" src= "https://github.com/jihan212/jihan212/blob/main/devcard.svg">
 
