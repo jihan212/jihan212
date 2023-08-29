@@ -1,17 +1,16 @@
 <h1 align="center">Hey there 👋, I am Jihan</h1>
 
-[![@jihanbjashim's Holopin board](https://holopin.me/jihanbjashim)](https://holopin.io/@jihanbjashim)
+<!------- [![@jihanbjashim's Holopin board](https://holopin.me/jihanbjashim)](https://holopin.io/@jihanbjashim) ---->
 
-<img align="right" alt="coding" width="250" src= "https://github.com/jihan212/jihan212/blob/main/devcard.svg">
+<!--- <img align="right" alt="coding" width="250" src= "https://github.com/jihan212/jihan212/blob/main/devcard.svg"> ---->
 
-<!-- - 👨‍💻 working on [petInfo | Pet service provider](https://github.com/jihan212/petinfo-frontend) -->
+<!----- - 🌱 learning **JavaScript, React, Node.js, SQL**
 
-- 🌱 learning **JavaScript, React, Node.js, SQL**
-
-- 👩‍🎓 studying in **Computer Science & Technology**
+- 👩‍🎓 studying in **Computer Science & Engineering**
 
 - ⚡ Fun fact **I'm odd 👽**
-
+ --->
+ 
 <!-- ----------------------- social link -------------------------------------- -->
 
 ## 🌐Social Links
