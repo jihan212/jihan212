@@ -43,8 +43,8 @@
 
 <!-- ----------------------- random quete generator------------------ -->
 
-<p align="center">
+<!------------ <p align="center">
    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=darcula" alt="jihan212" />
-</p>
+</p> ------------------> 
 
 
