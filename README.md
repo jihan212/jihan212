@@ -34,11 +34,11 @@
 
 <!-- ----------------------- statitics------------------------------- -->
 
-## 📊Stats
+<!----------## 📊Stats---------------->
 
-<p align="center">  
+<!------------<p align="center">  
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihan212&theme=darcula&hide_border=true" alt="jihan212" > 
-</p>
+</p>---------------------->
 
 <!-- ----------------------- random quete generator------------------ -->
 
